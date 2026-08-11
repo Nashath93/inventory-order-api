@@ -12,7 +12,7 @@ Built with Django REST Framework, PostgreSQL and Docker.
 - Django REST Framework
 - PostgreSQL
 - Docker
-- Docker Compose
+- Docker Compose 
 
 ## Project Status
 
